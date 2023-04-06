@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GabbyOti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @OtienoGabriel
+- 👀 I’m interested in MachineLearning and also pasionate about backend web development
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on AI projects
+- 📫 How to reach me at twitter @OtienoGabriel4
 
 <!---
 GabbyOti/GabbyOti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
