@@ -2,7 +2,7 @@
 - 👀 I’m interested in MachineLearning and also pasionate about backend web development
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me at twitter @OtienoGabriel4
+- 📫 How to reach me at twitter @othieno_gabriel
 
 <!---
 GabbyOti/GabbyOti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
